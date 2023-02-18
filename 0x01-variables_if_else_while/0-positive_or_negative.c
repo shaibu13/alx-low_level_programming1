@@ -1,12 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+* Main - determinesis a number is positive, negative or zero
+*
+* Return: Always 0 (success)
+*/
 int main(void)
 {
-	/* main assigns a random value to n anytime the code is executed*/
 	int n;
 
 	srand(time(0));
