@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 
-/*
-*main - will print the last digit of the number stored in the value n
-*
-* Return: Always 0 (success)
-*
-*/
+/**
+ * main - Determines either greater than 5, is less than 6, or is 0
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n, b;
