@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include "main.h"
 #include <unistd.h>
-
+/**
+ * main - Print putchar
+ * Return : 0
+ */
+ 
 int main(void)
 {
 	char A[] = "_putchar";
