@@ -3,9 +3,8 @@
 #include <unistd.h>
 
 /**
- * main - prints alphabets in lowercase.
+ * print_alphabet - prints alphabets in lowercase.
  *
- * Return: 0
  */
 
 void print_alphabet(void)
