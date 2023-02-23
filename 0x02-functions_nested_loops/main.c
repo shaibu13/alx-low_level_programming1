@@ -9,7 +9,7 @@ int main()
 	for (i = 0; A[i]; i++)
 	_putchar(A[i]);
 
-	_putchar("\n");
+	_putchar('\n');
 
 	return (0);
 }

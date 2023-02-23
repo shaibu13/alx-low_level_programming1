@@ -3,9 +3,9 @@
 #include <unistd.h>
 /**
  * main - Print putchar
- * Return : 0
+ * Return: 0
  */
- 
+
 int main(void)
 {
 	char A[] = "_putchar";
