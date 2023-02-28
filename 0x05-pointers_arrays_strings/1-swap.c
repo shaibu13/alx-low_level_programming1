@@ -4,10 +4,11 @@
  * @a: integer value variable
  * @b: integer value variable
  */
-void swap_int(int *a,int *b)
-{	
-	int temp;	
+void swap_int(int *a, int *b)
+{
+	int temp;
+
 	temp = *b;
 	*b = *a;
-	*a = temp;	
+	*a = temp;
 }
